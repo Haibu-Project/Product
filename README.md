@@ -13,7 +13,7 @@ Our **mission** is to redefine social networking by giving users control over th
 
 ## 🛠️ Tech Stack  
 Haibu is built using cutting-edge Web3 technologies to ensure decentralization, scalability, and security:  
-- **Chopin Framework & Celestia** → Enables modular blockchain infrastructure and decentralization.  
+- **Chopin Framework & Celestia** → Enables modular blockchain infrastructure, security and decentralization.  
 - **Next.js** → Provides a fast, scalable, and interactive front-end experience.  
 - **SQL** → Manages structured data efficiently to ensure smooth user interactions.  [Data Schema](https://dbdiagram.io/d/Haibu-67a2b781263d6cf9a00c9cc5)
 
@@ -33,9 +33,9 @@ Haibu will generate revenue through a **ad-based monetization model** that balan
 ## 👥 Team & Contributions  
 - 🎨 Sebastián Mena: UI/UX, Project Management
 - 📊 Pablo Mora: Product Manager, Business Development
-- 🧑‍💻 Santiago Villarreal: Developer
-- 🧑‍💻 Saymon Porras: Full-Stack Developer
-- 🧑‍💻 Kevin Latino: Developer 
+- - 🧑‍💻 Kevin Latino: FullStack Developer 
+- 🧑‍💻 Santiago Villarreal: FullStack Developer
+- 🧑‍💻 Saymon Porras: FullStack Developer
 
 ## 📬 Get Involved  
 Follow us on [X](https://x.com/haibusocial) for the latest updates, feature announcements, and community discussions. Join the conversation and help shape the future of decentralized social networking! 🚀
