@@ -33,7 +33,7 @@ Haibu will generate revenue through a **ad-based monetization model** that balan
 ## 👥 Team & Contributions  
 - 🎨 Sebastián Mena: UI/UX, Project Management
 - 📊 Pablo Mora: Product Manager, Business Development
-- - 🧑‍💻 Kevin Latino: FullStack Developer 
+- 🧑‍💻 Kevin Latino: FullStack Developer 
 - 🧑‍💻 Santiago Villarreal: FullStack Developer
 - 🧑‍💻 Saymon Porras: FullStack Developer
 
